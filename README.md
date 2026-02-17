@@ -1,18 +1,17 @@
 # 🎮 Quiz Game Web Application
 
 A simple and interactive Quiz Game built using HTML, CSS, and JavaScript.  
-This application allows users to answer multiple-choice questions and view their final score instantly.
+This project allows users to answer multiple-choice questions and view their final score instantly.
 
 ---
 
 ## 🚀 Features
 
 - Multiple-choice quiz questions
-- Score calculation
+- Real-time score calculation
 - Instant result display
-- Responsive design
-- Interactive UI
 - Restart quiz option
+- Clean and responsive design
 
 ---
 
@@ -25,23 +24,13 @@ This application allows users to answer multiple-choice questions and view their
 
 ---
 
-## 🎯 How It Works
-
-1. User starts the quiz.
-2. Questions are displayed one by one.
-3. User selects an answer.
-4. Score updates automatically.
-5. Final result is displayed at the end.
-
----
-
 ## 📁 Project Structure
 
 QUIZEGAME/
 
-│── index.html  
-│── style.css  
-│── script.js  
+│── quizgame.html  
+│── quizegame.css  
+│── quizegame.js  
 │── README.md  
 
 ---
@@ -49,12 +38,12 @@ QUIZEGAME/
 ## 📌 How to Run
 
 1. Clone or download the repository
-2. Open index.html in your browser
+2. Open `quizgame.html` in your browser
 3. Start playing the quiz
 
 ---
 
-## 🎓 Learning Outcomes
+## 🎯 Learning Outcomes
 
 - Understanding JavaScript logic building
 - Working with arrays and objects
