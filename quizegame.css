@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(106, 174, 128);
+     
+}
+#full{
+    background-color:rgb(180, 233, 134);
+    border-radius: 10px;
+    padding-top: 20px;
+  
+    text-align: center;
+    height: 460px;
+    width: 500px;
+    margin: 90px auto ;
+    /* border: 2px sienna solid; */
+    box-shadow: 2px 9px 8px 2px rgb(31, 23, 23);
+}
+.optionButtons:hover{
+    background-color: rgb(112, 112, 212);
+}
+.optionButtons{
+    display: block;
+    border: 2px solid rgb(49, 47, 47);
+    outline: 0.5px solid rgb(22, 22, 191);
+    font-size: 15px;
+    background-color:white;
+    height: 50px;
+    border-radius: 10px;
+    width: 400px;
+    color: black;
+    /* font-weight: bold; */
+    margin: 20px;
+
+}
+#question{
+    font-size: 25px;
+    margin: 10px;
+}
+#option{
+    margin-left: 30px;
+}
